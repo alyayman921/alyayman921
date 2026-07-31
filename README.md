@@ -1,4 +1,4 @@
-**Aerospace Engineer | GNC Systems | Flight Control Design**
+<h1 align="center">**Aerospace Engineer | GNC Systems | UAV Design**<h1>
 
 Fresh graduate from Cairo University with expertise in **Guidance, Navigation, and Control** systems. 
 Passionate about designing robust autopilot systems and implementing control theory in real-world applications.
@@ -10,8 +10,7 @@ Passionate about designing robust autopilot systems and implementing control the
 
 
 ---
-
-## 🎯 Current Interests
+<h2 align="center"> 🎯 Current Interests</h2>
 
 - Flight control law design & stability analysis
 - SIL-PIL-HIL simulation
@@ -29,7 +28,7 @@ Passionate about designing robust autopilot systems and implementing control the
 
 ---
 
-## 📫 Contact Me
+<h2 align="center"> 📫 Contact Me</h2>
 
 - **LinkedIn:** [in/3lymn](https://linkedin.com/in/3lymn)
 - **Email:** alyayman921@gmail.com
