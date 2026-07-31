@@ -1,7 +1,9 @@
-<h1 align="center">Aerospace Engineer | GNC Systems | UAV Design<h1>
+<h1 align="center">Aerospace Engineer | GNC Systems | UAV Design</h1>
 
-<p>Fresh graduate from Cairo University with expertise in Guidance, Navigation, and Control systems. 
-Passionate about designing robust autopilot systems and implementing control theory in real-world applications.</p>
+
+Fresh graduate from Cairo University with expertise in **Guidance, Navigation, and Control** systems. 
+Passionate about designing, implementing and testing control systems in real-world applications.
+
 
 <p align="center">
   <img src="NeverLoseControl.gif" style="max-width: 100%; height: auto;">
