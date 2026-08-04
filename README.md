@@ -11,13 +11,13 @@ Passionate about designing, implementing and testing control systems in real-wor
 
 
 
----
-<h2 align="center"> 🎯 Current Interests</h2>
+<!-- --- -->
+<!-- <h2 align="center"> 🎯 Current Interests</h2> -->
 
-- Flight control law design & stability analysis
-- SIL-PIL-HIL simulation
-- Autonomous UAV guidance systems
-- Control system implementation on embedded platforms
+<!-- - Flight control law design & stability analysis -->
+<!-- - SIL-PIL-HIL simulation -->
+<!-- - Autonomous UAV guidance systems -->
+<!-- - Control system implementation on embedded platforms -->
 
 ---
 
