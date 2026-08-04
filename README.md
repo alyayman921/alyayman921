@@ -19,7 +19,6 @@ Passionate about designing, implementing and testing control systems in real-wor
 <!-- - Autonomous UAV guidance systems -->
 <!-- - Control system implementation on embedded platforms -->
 
----
 
 <h2 align="center">Tech Stack</h2>
 
