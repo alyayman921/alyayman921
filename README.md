@@ -27,7 +27,7 @@ Passionate about designing, implementing and testing control systems in real-wor
 </p>
 
 
----
+<!-- --- -->
 
 <h2 align="center"> 📫 Contact Me</h2>
 
