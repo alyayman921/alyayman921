@@ -5,9 +5,9 @@ Fresh graduate from Cairo University with expertise in **Guidance, Navigation, a
 Passionate about designing, implementing and testing control systems in real-world applications.
 
 
-<p align="center">
-  <img src="NeverLoseControl.gif" style="max-width: 100%; height: auto;">
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="NeverLoseControl.gif" style="max-width: 100%; height: auto;"> -->
+<!-- </p> -->
 
 
 
