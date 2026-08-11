@@ -23,7 +23,7 @@ Passionate about designing, implementing and testing control systems in real-wor
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="stack.png" style="max-width: 100%; height: auto;">
+  <img src="stack.gif" style="max-width: 100%; height: auto;">
 </p>
 
 
