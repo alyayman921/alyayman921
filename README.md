@@ -1,7 +1,7 @@
 <h1 align="center">Aerospace Engineer - Control Systems - UAV Design</h1>
 
 
-Fresh graduate from Cairo University with expertise in **Guidance, Navigation, and Control** systems. 
+Fresh graduate from Cairo University with experience in **Guidance, Navigation, and Control** systems. 
 Passionate about designing, implementing and testing control systems in real-world applications.
 
 
